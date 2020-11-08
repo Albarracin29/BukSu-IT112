@@ -5,7 +5,8 @@
 
 int main()
 {
-    int num;
+    
+   int num;
     
    printf("Enter an integer: ");
    
@@ -20,4 +21,5 @@ int main()
    printf("%d is odd.", num);
 
    return 0;
+   
 }
