@@ -1,4 +1,4 @@
-# C-program-to-check-whether-a-given-number-is-even-or-odd.
+# BukSu-IT112
 
 
 #include <stdio.h>
